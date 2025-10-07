@@ -1,0 +1,19 @@
+h1 {
+  color: red
+}
+
+.box {
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 80px;
+  height: 40px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.mini-box {
+  border: 1px solid gray;
+  width: 20px;
+  height: 10px;
+  /* margin: 10px; */
+}
